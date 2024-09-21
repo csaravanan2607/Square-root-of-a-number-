@@ -17,11 +17,11 @@ To write a program to find the square root of a number.
 
 ## Program :
 ```
-/*
+
 Program to find the square root for the given number(newton's method) using function.
 Developed by: Saravanan C
 RegisterNumber: 212222110041 
-*/
+
 ```
 ```
 def squareroot(num1,iternum):
